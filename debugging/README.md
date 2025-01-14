@@ -1,0 +1,1 @@
+This folder is to practice debugging using Chatgpt
